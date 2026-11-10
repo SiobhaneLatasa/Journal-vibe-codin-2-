@@ -13,3 +13,7 @@ Etudiante en design, j'aime les intrefaces sobres
 - **Git** : garder l'historique de mon projet
 - **Github** : le partage en ligne
 - *Markdown* : écrire du texte mis en forme
+
+## Ma page
+
+[Voir ma page en ligne](https://fr.pinterest.com/pin/648799890092063362/) 
